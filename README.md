@@ -596,4 +596,4 @@ Bei der Recherche im Rahmen von CoFFE wurden wir zudem auf das Projekt Artemis d
 
 ## Copyright und Lizenz
 
-Copyright 2023-2025 Prof. Dr. Johannes C. Schneider. Alle Rechte liegen beim Urheber. Bei Interesse an der Verwendung/Verbreitung dieser Dokumentation, welche über die Verlinkung zu diesem Repository hinausgeht, bitte [Kontakt mit J. Schneider](https://www.htwg-konstanz.de/hochschule/fakultaeten/informatik/orga/professoren/schneider) aufnehmen.
+Copyright 2023-2025 Prof. Dr. Johannes C. Schneider und Prof. Michael Blaich. Alle Rechte liegen bei den Urhebern. Bei Interesse an der Verwendung/Verbreitung dieser Dokumentation, welche über die Verlinkung zu diesem Repository hinausgeht, bitte [Kontakt mit J. Schneider](https://www.htwg-konstanz.de/hochschule/fakultaeten/informatik/orga/professoren/schneider) aufnehmen.
